@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://ehsantadayon.github.io/neurocases/sitemap.xml
